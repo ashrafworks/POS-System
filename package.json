@@ -1,0 +1,21 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@coreui/coreui": "^3.2.2",
+        "@coreui/icons": "^1.0.1",
+        "@popperjs/core": "^2.11.8",
+        "axios": "^1.12.1",
+        "bootstrap": "^5.3.8",
+        "laravel-vite-plugin": "^2.0.1",
+        "sass": "^1.15.2",
+        "vite": "^7.1.5"
+    },
+    "dependencies": {
+        "autoprefixer": "^10.3.1"
+    },
+    "type": "module"
+}
